@@ -1,7 +1,14 @@
-
 button {
-    background-color:darkmagenta;
+    background-color:mintcream;
 }
-h1,p,button {
-    text-align: center
+h1 {
+    text-align: center; color: rgb(231, 10, 10);
+}
+p {
+    text-align:center
+}
+div {
+    text-align: center; 
+    position:absolute;
+    bottom:0;
 }
